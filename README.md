@@ -7,6 +7,9 @@ This is an Android Application that works only on Samsung Galaxy S4, which has a
 It emulates the functions of LEGO IR controller 8885 and can be used to control LEGO Power functions.
 This MAY work on other phones with IR blaster, but is never tested. (I am keen to find out; if it does work, e.g. on HTC One, do let me know :D)
 
+The application is available for free on Play Store:
+https://play.google.com/store/apps/details?id=com.redfishlab.legopfs4v1&hl=en
+
 Special thanks to the various people and websites that make this possible:
 
 1) http://www.philohome.com/pf/pf.htm
